@@ -1,0 +1,2 @@
+# loding-efekt
+efekt
